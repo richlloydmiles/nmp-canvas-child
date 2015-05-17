@@ -1,0 +1,16 @@
+/*
+ Theme Name:   NMP Canvas Child
+ Theme URI:    htp://www.wobble.co.za
+ Description:  A Net Media Planet Cape Town Child theme of WordPress Canvas theme
+ Author:       Richard Miles
+ Author URI:   http://wobble.co.za
+ Template:     canvas
+ Version:      0.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         responsive, eCommerce
+ Text Domain:  nmp-canvas-child
+*/
+
+@import url('../canvas/style.css'); 
+@import url('css/custom-style.css');
